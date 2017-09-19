@@ -1,2 +1,2 @@
 # duck
-the duck programming language
+\tThe duck programming language
